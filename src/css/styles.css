@@ -93,12 +93,12 @@ body {
 
   .photo-card img {
     width: 100%;
-    max-width: 360px;
+    max-width: 300px;
     margin: 0 auto;
   }
   
   .photo-card .info {
-    width: 360px;
+    width: 300px;
   }
   
   .info {
